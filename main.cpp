@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath> // para arredondamento
+#include <cmath>
 
 using namespace std;
 
@@ -80,4 +80,5 @@ int main() {
     cout << "Encerrando o sistema.\n";
     return 0;
 }
+
 
